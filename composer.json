@@ -1,5 +1,5 @@
 {
-    "name": "alitvinov/laravel-mobizon",
+    "name": "keital/laravel-mobizon",
     "description": "Mobizon SMS notifications driver for Laravel",
     "keywords": [
         "laravel",
@@ -8,13 +8,13 @@
         "sms",
         "php"
     ],
-    "homepage": "https://github.com/Alitvinov/mobizon",
+    "homepage": "https://github.com/keital/laravel-mobizon",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Litvinov",
-            "homepage": "https://github.com/Alitvinov",
-            "role": "Developer"
+            "name": "Adrian Rodriguez",
+            "homepage": "https://github.com/keital",
+            "role": "maintainer"
         }
     ],
     "require": {
@@ -35,12 +35,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Alitvinov\\LaravelMobizon\\": "src"
+            "keital\\LaravelMobizon\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Alitvinov\\LaravelMobizon\\Test\\": "tests"
+            "keital\\LaravelMobizon\\Test\\": "tests"
         }
     },
     "scripts": {
