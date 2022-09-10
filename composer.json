@@ -24,8 +24,8 @@
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^6.3|^7.2",
         "illuminate/queue": "*",
-        "illuminate/notifications": "5.1 - 5.8|^6.0|^7.0",
-        "illuminate/support": "5.1 - 5.8|^6.0|^7.0",
+        "illuminate/notifications": "*",
+        "illuminate/support": "*",
         "mobizon/mobizon-php": "~2.0"
         
     },
