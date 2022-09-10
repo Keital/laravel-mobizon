@@ -1,9 +1,9 @@
 <?php
 
-namespace Alitvinov\LaravelMobizon;
+namespace Keital\LaravelMobizon;
 
 use Illuminate\Notifications\Notification;
-use Alitvinov\LaravelMobizon\Exceptions\CouldNotSendNotification;
+use Keital\LaravelMobizon\Exceptions\CouldNotSendNotification;
 
 class MobizonChannel
 {

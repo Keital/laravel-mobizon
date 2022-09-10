@@ -1,6 +1,6 @@
 <?php
 
-namespace Alitvinov\LaravelMobizon;
+namespace Keital\LaravelMobizon;
 
 class MobizonMessage
 {

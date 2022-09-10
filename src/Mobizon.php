@@ -1,9 +1,9 @@
 <?php
 
-namespace Alitvinov\LaravelMobizon;
+namespace Keital\LaravelMobizon;
 
 use Mobizon\MobizonApi;
-use Alitvinov\LaravelMobizon\Exceptions\CouldNotSendNotification;
+use Keital\LaravelMobizon\Exceptions\CouldNotSendNotification;
 
 class Mobizon
 {
@@ -29,8 +29,8 @@ class Mobizon
      * @param $recipient
      * @param MobizonMessage $message
      * @throws CouldNotSendNotification
-     * @throws \Alitvinov\LaravelMobizon\Mobizon_Http_Error
-     * @throws \Alitvinov\LaravelMobizon\Mobizon_Param_Required
+     * @throws \Keital\LaravelMobizon\Mobizon_Http_Error
+     * @throws \Keital\LaravelMobizon\Mobizon_Param_Required
      */
 
     public function send($phone, MobizonMessage $message)
