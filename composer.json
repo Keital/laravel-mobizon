@@ -22,7 +22,7 @@
         "php": "^7.2.5|^8.0|^8.1",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^6.3|^7.2",
         "illuminate/queue": "5.1 - 5.8|^6.0|^7.0",
         "illuminate/notifications": "5.1 - 5.8|^6.0|^7.0",
         "illuminate/support": "5.1 - 5.8|^6.0|^7.0",
